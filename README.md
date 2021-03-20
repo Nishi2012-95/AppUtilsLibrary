@@ -42,7 +42,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.MohsinaliEMed:AppUtilsLibrary:1.0.1'
+    implementation 'com.github.nncc:AppUtilsLibrary:1.0.1'
 }
  ```
 
