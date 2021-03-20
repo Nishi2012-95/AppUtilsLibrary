@@ -6,23 +6,23 @@ AppUtilsLibrary is a fast and efficient open source. AppUtils is a library with 
 
 <ul>
 
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/CameraGalleryUtils.kt">CameraGalleryUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/CompressFileUtils.kt">CompressFileUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/FileHelperUtils.kt"> FileHelperUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/PermissionUtils.kt"> PermissionUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/DialogUtil.kt"> DialogUtil</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/EditTextUtils.kt"> EditTextUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/GeneralAppUtils.kt">GeneralAppUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/IsEmpty.kt"> IsEmpty</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/KeyBordUtils.kt"> KeyBordUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/LayoutUtils.kt">  LayoutUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/LogsUtils.kt">  LogsUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/NetworkUtils.kt">  NetworkUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/NotificationUtils.kt"> NotificationUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/PreferenceUtils.kt"> PreferenceUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/ValidationUtils.kt"> ValidationUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/TextViewUtils.kt"> TextViewUtils</a></li>
-<li><a href="https://github.com/MohsinaliEMed/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/mohsinali/appUtils/TimeUtil.kt"> TimeUtil</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/CameraGalleryUtils.kt">CameraGalleryUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/CompressFileUtils.kt">CompressFileUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/FileHelperUtils.kt"> FileHelperUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/PermissionUtils.kt"> PermissionUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/DialogUtil.kt"> DialogUtil</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/EditTextUtils.kt"> EditTextUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/GeneralAppUtils.kt">GeneralAppUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/IsEmpty.kt"> IsEmpty</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/KeyBordUtils.kt"> KeyBordUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/LayoutUtils.kt">  LayoutUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/LogsUtils.kt">  LogsUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/NetworkUtils.kt">  NetworkUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/NotificationUtils.kt"> NotificationUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/PreferenceUtils.kt"> PreferenceUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/ValidationUtils.kt"> ValidationUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/TextViewUtils.kt"> TextViewUtils</a></li>
+<li><a href="https://github.com/nncc/AppUtilsLibrary/blob/master/AppUtilsLibrary/src/main/java/com/nncc/appUtils/TimeUtil.kt"> TimeUtil</a></li>
 </ul>
 
 
